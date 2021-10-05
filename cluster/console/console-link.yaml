@@ -3,9 +3,9 @@ kind: ConsoleLink
 metadata:
   name: application-menu-rh-developer-blog
 spec:
-  href: 'https://developers.redhat.com/topics/kubernetes'
+  href: 'https://www.104.com.tw'
   location: ApplicationMenu
-  text: Red Hat Developer Blog - Kubernetes
+  text: 104 Site - Kubernetes
   applicationMenu:
-    section: Kubernetes Blogs
-    imageURL: https://i.ibb.co/pZ0Lxdb/Logo-Red-Hat-Hat-Color-RGB.png
+    section: 104 Site
+    imageURL: https://static.104.com.tw/logo/104logo_200x200.png
